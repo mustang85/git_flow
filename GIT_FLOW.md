@@ -15,3 +15,6 @@ git add main.pyc utils.js
 
 сохранить наши изменения
 git commit -m 'Initial commit'
+
+сравнение изменений или вновь добавленного
+git diff
